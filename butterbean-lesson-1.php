@@ -68,7 +68,7 @@ if ( ! class_exists( 'ButterBean_Lesson_1' ) ) {
 				'lesson_1_section_a',
 				array(
 					'label'    => 'Section A',
-					'dashicon' => 'dashicons-admin-generic'
+					'icon' => 'dashicons-admin-generic'
 				)
 			);
 
